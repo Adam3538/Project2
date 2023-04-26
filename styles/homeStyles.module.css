@@ -1,0 +1,21 @@
+.modalToggle {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-color: #000000;
+  padding: 10px;
+  border-radius: 10px;
+  align-self: center;
+  margin-left: -320px;
+}
+
+.modalClose {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: -300px;
+}
+
+.modalContent {
+  flex: 1;
+}

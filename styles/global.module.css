@@ -1,0 +1,23 @@
+.container {
+  flex: 1;
+  padding: 20px;
+}
+
+.titleText {
+  font-size: 18;
+}
+
+.paragraph {
+  font-size: 16;
+  margin-top: 8;
+  line-height: 20px;
+}
+
+.input {
+  font-size: 18;
+  border-width: 1px;
+  border-color: #000000;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 6px;
+}
